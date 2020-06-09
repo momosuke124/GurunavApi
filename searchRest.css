@@ -1,0 +1,47 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+head {
+  background-color: #aaaaaa;
+}
+
+body {
+  margin-bottom: 5em;
+  background-color: #f5f5f5;
+}
+
+footer {
+  bottom: 0;
+  height: 5em;
+  position: absolute;
+}
+
+a {
+  transition: color 0.3s;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #aaaaaa;
+}
+
+h4 {
+  display: inline;
+  margin: 2em auto;
+}
+
+@media(min-width: 768px){
+  a[href^="tel:"] {
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+  }
+}
+
+.selectBox {
+	width: 130px;
+	margin: 2em auto;
+	text-align: center;
+}
