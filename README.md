@@ -30,9 +30,9 @@ searchRest.php(トップ) -> searchRestRes.php（一覧） -> searchRestDet.php�
 
 <img src="https://github.com/momosuke124/image/blob/master/Dontlocation.png" width="320px">
 
-## 動作確認（5/14追記）
+## 動作確認
 Google Chrome - ver 81.0.4044.129  
 Opera - ver 68.0.3618.91  
-- SSL通信で動作可能  
+SSL通信で動作可能  
 Safari - ver 13.1  
 Fire Fox - 76.0.1  
